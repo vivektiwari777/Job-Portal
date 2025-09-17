@@ -17,4 +17,6 @@ JobZee is a modern MERN stack job portal designed to bridge the gap between job 
 TechnologyPurposeFrontend: React.js, Context APIDynamic & responsive UIBackend: Node.js, Express.jsAPI & business logicDatabase: MongoDBData storage & managementAuthentication: JWT, bcrypt.jsSecure authenticationAPI Documentation: SwaggerAPI reference & testingDeployment: Render (Backend), Vercel/Netlify (Frontend)Cloud hosting
 🌍 Live Demo & API Documentation
 🔹 Backend API Documentation: JobZee API Docs
-
+### Backend: [🔗 Live Backend Link](https://job-portal-thm4.onrender.com/api-doc/) 
+- 🖥️ Node.js  
+- 🖧 Express.js  
