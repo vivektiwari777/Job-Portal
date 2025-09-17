@@ -1,6 +1,8 @@
 JobZee – MERN Stack Job Portal
 🌟 A Smart Job Portal for Seamless Hiring & Job Search
- https://job-portal-psi-silk.vercel.app/
+ ### Forented: [🔗 Live Forented Link](https://vpropel-copy.vercel.app/)  
+- 🖥️ React js
+- 🖧 javascript   
   
 🚀 Overview
 JobZee is a modern MERN stack job portal designed to bridge the gap between job seekers and recruiters. It provides a seamless job application and hiring process with secure authentication, real-time updates, and an intuitive user experience.
